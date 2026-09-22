@@ -244,6 +244,7 @@ The observability layer is standardizing on **OpenTelemetry** - emit these and y
 | 🟢 [LLM Guard](https://github.com/protectai/llm-guard) | 3.2k | MIT | Security toolkit: PII redaction, prompt-injection & toxicity detection. |
 | 🟢 [Presidio](https://github.com/data-privacy-stack/presidio) | 10.9k | MIT | PII detection, redaction & anonymization; the standard for scrubbing prompts and traces. |
 | 🟢 [garak](https://github.com/NVIDIA/garak) | 9.2k | Apache-2.0 | LLM vulnerability scanner: probes for prompt injection, jailbreaks & data leakage (NVIDIA). |
+| 🟢 [fact-gate](https://github.com/AnonZ7/fact-gate) | 0 | MIT | Deterministic, zero-dependency verification of AI-written text (PR descriptions, READMEs, changelogs) against a diff or measured facts; blocks on contradictions. GitHub Action, Claude Code hook, pre-commit, CLI. |
 
 ## Self-Hosted / Open-Source First
 
